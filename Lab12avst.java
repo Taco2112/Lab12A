@@ -82,3 +82,13 @@ class MagpieLab12a
 		return response;
 	}
 }
+//okay so the jist is
+//STEP 1. there will now be 10 different random responses (each must be [String object in a static array])
+//STEP 2. But not Really ? - You can create your own random responses ((((((((((((THEY MUST BE RANDOM))))))))
+//STEP 3. YOUR JUST DONE.
+//HINT: KIEDES SAID "Yes you should probably use Math.random" probably means should defintley 
+
+//SUM UP - 
+//MAKE there will now be 10 different random responses (each must be [String object in a static array])
+//HAVE THEM BE RANDOM 
+//THATS IT .
