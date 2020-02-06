@@ -92,3 +92,6 @@ class MagpieLab12a
 //MAKE there will now be 10 different random responses (each must be [String object in a static array])
 //HAVE THEM BE RANDOM 
 //THATS IT .
+
+
+//note from last day - string objects in a static array
